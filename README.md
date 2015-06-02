@@ -45,6 +45,11 @@ This is a repository with links I've discovered on the Web.
 * [GitVersion](https://github.com/ParticularLabs/GitVersion) - `Apr 2015` - _Easy Semantic Versioning (http://semver.org) for projects using Git http://particularlabs.github.io/GitVersion/_
 
 
+## Comics
+
+ * [Coding Explained in 25 Profound Comics](https://medium.com/@FreeCodeCamp/coding-explained-in-25-profound-comics-8847ea03819c) - `Jun 2015`
+
+
 ## Blog posts
 
 ### Workplace
