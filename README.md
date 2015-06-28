@@ -5,6 +5,7 @@ This is a repository with links I've discovered on the Web.
 
 ## JavaScript
 
+  * [(Online) Book: Exploring ES6](https://leanpub.com/exploring-es6/read) - `Jun 2015` - _This book covers ECMAScript 6 in great detail_
   * [window.fetch polyfill](https://github.com/github/fetch) ([Spec](https://fetch.spec.whatwg.org/)) - `May 2015`
   * [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - `May 2015`
   * [SEO: We Tested How Googlebot Crawls Javascript And Here’s What We Learned](http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157) - `May 2015` - _Think Google can't handle JavaScript? Think again. Contributor Adam Audette shares the results of a series of tests conducted by his colleagues at Merkle | RKG to examine how different JavaScript functions would be crawled and indexed by Google._
@@ -43,6 +44,10 @@ This is a repository with links I've discovered on the Web.
 ## Versioning
 
 * [GitVersion](https://github.com/ParticularLabs/GitVersion) - `Apr 2015` - _Easy Semantic Versioning (http://semver.org) for projects using Git http://particularlabs.github.io/GitVersion/_
+
+## OpenGL
+
+  * [Learn OpenGL](http://learnopengl.com/#!Getting-started/OpenGL) - `Jun 2015` - _Well written OpenGL tutorials_
 
 
 ## Comics
