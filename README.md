@@ -12,6 +12,7 @@ This is a repository with links I've discovered on the Web.
 
 ## ReactJS
  
+ * [Building Plugins for React Apps](https://nylas.com/blog/react-plugins) - `July 2015` - _Techniques for modular, robust & flexible JavaScript plugins_
  * [React Primer Draft - 'book'](https://github.com/mikechau/react-primer-draft) - `April 2015` - _An well written book about react`
  * [Redux - Atomic Flux with hot reloading](https://github.com/gaearon/redux) - `July 2015` 
  * [Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015](https://www.youtube.com/watch?t=10&v=xsSnOQynTHs) - `July 2015` - _React’s unique strength is bringing to JavaScript development some of the benefits previously exclusive to more radically functional languages such as Elm and ClojureScript, without forcing you to completely eschew local state or rewrite code with exclusively immutable data structures. In this talk, Dan will demonstrate how React can be used together with Webpack Hot Module Replacement to create a live editing environment with time travel that supercharges your debugging experience and transforms the way you work on real apps every day._
