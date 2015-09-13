@@ -1,80 +1,79 @@
-;UC;Cursos;Dia;Hora;Salas;Dia;Hora;Salas;Dia;Hora;Salas
-;AA;LEIM, MEIC;27 jan (ter);10:00;;10 fev (ter);19:00;;9 mar (seg);10:00;A.2.3
-;AC;LEIC, LEETC;22 jan (qui);10:00;;10 fev (ter);19:00;;11 mar (qua);19:00;A.2.16,A.2.18
-;AED;LEIC;27 jan (ter);19:00;;10 fev (ter);10:00;;10 mar (ter);10:00;A.2.12,A.2.13
-;ALGA;LEIC, LEETC;4 fev (qua);19:00;;20 fev (sex);10:00;;18 mar (qua);19:00;A.2.16,A.2.18
-;AM1;LEETC;6 fev (sex);10:00;;18 fev (qua);19:00;;16 mar (seg);10:00;A.2.16,A.2.18
-;AM2;LEETC;5 fev (qui);19:00;;18 fev (qua);10:00;;17 mar (ter);19:00;A.2.16,A.2.18
-;AMD;MERCM;5 fev (qui);19:00;;19 fev (qui);19:00;;20 mar (sex);19:00;A.2.16,A.2.18
-;ANT;MEET;31 jan (sáb);10:00;;12 fev (qui);19:00;;9 mar (seg);19:00;A.2.16,A.2.18
-;ASI;MEIC;28 jan (qua);19:00;;9 fev (seg);19:00;;10 mar (ter);19:00;A.2.16,A.2.18
-;AVE;LEIC;30 jan (sex);19:00;;19 fev (qui);19:00;;18 mar (qua);19:00;A.2.16,A.2.18
-;BD;LEETC, MEET;20 jan (ter);19:00;;9 fev (seg);10:00;;11 mar (qua);19:00;A.2.16,A.2.18
-;CG;LEIC;23 jan (sex);10:00;;9 fev (seg);10:00;;11 mar (qua);10:00;A.2.12,A.2.13
-;CMOV;MEET;22 jan (qui);19:00;;18 fev (qua);19:00;;13 mar (sex);19:00;A.2.12,A.2.13
-;COM;LEIC;6 fev (sex);19:00;;20 fev (sex);10:00;;19 mar (qui);19:00;A.2.16,A.2.18
-;COS;MEIC;29 jan (qui);19:00;;11 fev (qua);19:00;;17 mar (ter);19:00;A.2.16,A.2.18
-;CPS;LEIM;28 jan (qua);19:00;;13 fev (sex);10:00;;19 mar (qui);10:00;A.2.16,A.2.18
-;CSI;MEIC;30 jan (sex);19:00;;12 fev (qui);19:00;;12 mar (qui);19:00;A.2.16,A.2.18
-;E1;LEETC;3 fev (ter);19:00;;19 fev (qui);10:00;;18 mar (qua);10:00;A.2.16,A.2.18
-;E2;LEETC;4 fev (qua);10:00;;16 fev (seg);19:00;;20 mar (sex);10:00;A.2.16,A.2.18
-;EA;LEETC;27 jan (ter);19:00;;12 fev (qui);10:00;;13 mar (sex);19:00;A.2.12,A.2.13
-;EGP;LEIC, MEIC, MEET, LEIM, MERCM;26 jan (seg);19:00;;14 fev (sáb);10:00;;16 mar (seg);10:00;A.2.16,A.2.18
-;Eletr;LEIC;2 fev (seg);10:00;;11 fev (qua);19:00;;16 mar (seg);10:00;A.2.16,A.2.18
-;ES;MEIC, MERCM;23 jan (sex);19:00;;9 fev (seg);19:00;;11 mar (qua);19:00;A.2.16,A.2.18
-;FAE;LEETC;28 jan (qua);10:00;;12 fev (qui);19:00;;13 mar (sex);10:00;A.2.16,A.2.18
-;FSO;LEIM;2 fev (seg);10:00;;19 fev (qui);19:00;;17 mar (ter);19:00;A.2.16,A.2.18
-;ICIR;LEETC;2 fev (seg);10:00;;16 fev (seg);19:00;;20 mar (sex);10:00;A.2.16,A.2.18
-;ICM;MERCM;29 jan (qui);19:00;;11 fev (qua);19:00;;9 mar (seg);19:00;A.2.16,A.2.18
-;IRS;MEIC, MEET, MERCM;2 fev (seg);19:00;;18 fev (qua);19:00;;19 mar (qui);19:00;A.2.16,A.2.18
-;LC;LEIC;4 fev (qua);10:00;;19 fev (qui);14:00;;18 mar (qua);10:00;A.2.16,A.2.18
-;LSD;LEIC, LEETC;29 jan (qui);10:00;;13 fev (sex);19:00;;12 mar (qui);10:00;A.2.12,A.2.13
-;M1;LEIC;6 fev (sex);10:00;;18 fev (qua);19:00;;20 mar (sex);10:00;A.2.16,A.2.18
-;M2;LEIC;3 fev (ter);19:00;;18 fev (qua);10:00;;17 mar (ter);19:00;A.2.16,A.2.18
-;MAE;LEIM;4 fev (qua);19:00;;18 fev (qua);10:00;;20 mar (sex);19:00;A.2.16,A.2.18
-;MAET;LEETC;31 jan (sáb);10:00;;9 fev (seg);19:00;;16 mar (seg);19:00;A.2.16,A.2.18
-;MDP;LEIM;6 fev (sex);10:00;;20 fev (sex);19:00;;18 mar (qua);10:00;A.2.16,A.2.18
-;MSSN;LEIM;30 jan (sex);10:00;;11 fev (qua);19:00;;11 mar (qua);10:00;A.2.12,A.2.13
-;PC;LEIC;6 fev (sex);10:00;;20 fev (sex);19:00;;20 mar (sex);19:00;A.2.16,A.2.18
-;PDM;LEIC;21 jan (qua);10:00;;10 fev (ter);10:00;;19 mar (qui);10:00;A.2.16,A.2.18
-;PDS;LEETC;6 fev (sex);19:00;;19 fev (qui);19:00;;17 mar (ter);19:00;A.2.16,A.2.18
-;PE;LEIC, LEETC;7 fev (sáb);10:00;;20 fev (sex);19:00;;19 mar (qui);10:00;A.2.16,A.2.18
-;PF;LEIC;31 jan (sáb);10:00;;17 fev (ter);19:00;;17 mar (ter);19:00;A.2.16,A.2.18
-;PG;LEIC;26 jan (seg);10:00;;9 fev (seg);19:00;;10 mar (ter);19:00;A.2.16,A.2.18
-;PG1;LEETC;23 jan (sex);10:00;;11 fev (qua);19:00;;10 mar (ter);19:00;A.2.16,A.2.18
-;PG2;LEETC;23 jan (sex);19:00;;16 fev (seg);10:00;;12 mar (qui);19:00;A.2.16,A.2.18
-;PG3;LEETC;26 jan (seg);19:00;;21 fev (sáb);10:00;;12 mar (qui);19:00;A.2.16,A.2.18
-;PI;LEIC;29 jan (qui);19:00;;11 fev (qua);10:00;;9 mar (seg);19:00;A.2.16,A.2.18
-;PIV;LEIM;31 jan (sáb);10:00;;18 fev (qua);10:00;;18 mar (qua);19:00;A.2.16,A.2.18
-;POO;LEIC;28 jan (qua);10:00;;12 fev (qui);19:00;;13 mar (sex);10:00;A.2.16,A.2.18
-;PR;LEETC;26 jan (seg);10:00;;12 fev (qui);19:00;;18 mar (qua);19:00;A.2.16,A.2.18
-;PRC;MEET, MERCM;28 jan (qua);19:00;;10 fev (ter);19:00;;10 mar (ter);19:00;A.2.16,A.2.18
-;PSC;LEIC;29 jan (qui);19:00;;12 fev (qui);10:00;;12 mar (qui);19:00;A.2.16,A.2.18
-;RCOM;LEETC, MEET;27 jan (ter);14:00;;11 fev (qua);19:00;;19 mar (qui);10:00;A.2.16,A.2.18
-;RCp;LEIC, LEETC, LEIM;2 fev (seg);19:00;;13 fev (sex);14:00;;19 mar (qui);19:00;A.2.16,A.2.18
-;RDC;MEET, MERCM;3 fev (ter);19:00;;13 fev (sex);19:00;;18 mar (qua);19:00;A.2.16,A.2.18
-;RI;LEIC, MEIC, LEETC, LEIM;3 fev (ter);19:00;;16 fev (seg);10:00;;16 mar (seg);19:00;A.2.16,A.2.18
-;RSCM;LEIM, MEIC, MEET;6 fev (sex);19:00;;19 fev (qui);14:00;;20 mar (sex);10:00;A.2.16,A.2.18
-;SA;LEIM;29 jan (qui);10:00;;12 fev (qui);19:00;;12 mar (qui);10:00;A.2.12,A.2.13
-;SAU;MEET, MERCM;7 fev (sáb);10:00;;20 fev (sex);19:00;;14 mar (sáb);10:00;G.1.15
-;SBD;LEIM;29 jan (qui);19:00;;12 fev (qui);10:00;;12 mar (qui);19:00;A.2.16,A.2.18
-;SCO;MEET;27 jan (ter);19:00;;11 fev (qua);19:00;;19 mar (qui);19:00;A.2.16,A.2.18
-;SD;LEIC, MEIC;21 jan (qua);19:00;;16 fev (seg);19:00;;21 mar (sáb);10:00;G.1.15
-;SE1;LEIC, MEIC, LEETC;2 fev (seg);10:00;;18 fev (qua);19:00;;18 mar (qua);19:00;A.2.16,A.2.18
-;SEAD;LEETC;29 jan (qui);10:00;;16 fev (seg);19:00;;13 mar (sex);10:00;A.2.16,A.2.18
-;SEAS;MEET;26 jan (seg);19:00;;21 fev (sáb);10:00;;12 mar (qui);19:00;A.2.16,A.2.18
-;SET;MEET;29 jan (qui);19:00;;9 fev (seg);19:00;;17 mar (ter);19:00;A.2.16,A.2.18
-;SG;LEIC, MEIC, LEIM;5 fev (qui);19:00;;21 fev (sáb);10:00;;13 mar (sex);10:00;A.2.16,A.2.18
-;SI;LEIC, MEIC;22 jan (qui);10:00;;13 fev (sex);19:00;;10 mar (ter);10:00;A.2.12,A.2.13
-;SI1;LEIC;21 jan (qua);19:00;;18 fev (qua);14:00;;20 mar (sex);19:00;A.2.16,A.2.18
-;SI2;LEIC;27 jan (ter);10:00;;12 fev (qui);19:00;;12 mar (qui);10:00;A.2.12,A.2.13
-;SIGM;MERCM;30 jan (sex);19:00;;12 fev (qui);19:00;;12 mar (qui);19:00;A.2.16,A.2.18
-;SOi;LEIC;24 jan (sáb);10:00;;10 fev (ter);19:00;;10 mar (ter);19:00;A.2.16,A.2.18
-;SOt;LEETC;22 jan (qui);19:00;;10 fev (ter);10:00;;9 mar (seg);19:00;A.2.16,A.2.18
-;SS;LEETC;30 jan (sex);19:00;;9 fev (seg);10:00;;9 mar (seg);19:00;A.2.16,A.2.18
-;ST;LEETC, MEET;30 jan (sex);19:00;;12 fev (qui);14:00;;20 mar (sex);19:00;A.2.16,A.2.18
-;STBL;MEET;21 jan (qua);19:00;;14 fev (sáb);10:00;;16 mar (seg);19:00;A.2.16,A.2.18
-;TEL1;LEETC;29 jan (qui);19:00;;11 fev (qua);10:00;;10 mar (ter);10:00;A.2.12,A.2.13
-;TEL2;LEETC;6 fev (sex);10:00;;20 fev (sex);19:00;;11 mar (qua);10:00;A.2.12,A.2.13
-;TI;LEIM;27 jan (ter);19:00;;9 fev (seg);10:00;;10 mar (ter);19:00;A.2.16,A.2.18
-;;;;;;;;;;;
+,UC,Cursos,Dia,Hora,Salas,Dia,Hora,Salas,Dia,Hora,Salas
+,AA,LEIM# MEIC,27 jan (ter),10:00,,10 fev (ter),19:00,,9 mar (seg),10:00,A.2.3
+,AC,LEIC# LEETC,22 jan (qui),10:00,,10 fev (ter),19:00,,11 mar (qua),19:00,A.2.16#A.2.18
+,AED,LEIC,27 jan (ter),19:00,,10 fev (ter),10:00,,10 mar (ter),10:00,A.2.12#A.2.13
+,ALGA,LEIC# LEETC,4 fev (qua),19:00,,20 fev (sex),10:00,,18 mar (qua),19:00,A.2.16#A.2.18
+,AM1,LEETC,6 fev (sex),10:00,,18 fev (qua),19:00,,16 mar (seg),10:00,A.2.16#A.2.18
+,AM2,LEETC,5 fev (qui),19:00,,18 fev (qua),10:00,,17 mar (ter),19:00,A.2.16#A.2.18
+,AMD,MERCM,5 fev (qui),19:00,,19 fev (qui),19:00,,20 mar (sex),19:00,A.2.16#A.2.18
+,ANT,MEET,31 jan (sáb),10:00,,12 fev (qui),19:00,,9 mar (seg),19:00,A.2.16#A.2.18
+,ASI,MEIC,28 jan (qua),19:00,,9 fev (seg),19:00,,10 mar (ter),19:00,A.2.16#A.2.18
+,AVE,LEIC,30 jan (sex),19:00,,19 fev (qui),19:00,,18 mar (qua),19:00,A.2.16#A.2.18
+,BD,LEETC# MEET,20 jan (ter),19:00,,9 fev (seg),10:00,,11 mar (qua),19:00,A.2.16#A.2.18
+,CG,LEIC,23 jan (sex),10:00,,9 fev (seg),10:00,,11 mar (qua),10:00,A.2.12#A.2.13
+,CMOV,MEET,22 jan (qui),19:00,,18 fev (qua),19:00,,13 mar (sex),19:00,A.2.12#A.2.13
+,COM,LEIC,6 fev (sex),19:00,,20 fev (sex),10:00,,19 mar (qui),19:00,A.2.16#A.2.18
+,COS,MEIC,29 jan (qui),19:00,,11 fev (qua),19:00,,17 mar (ter),19:00,A.2.16#A.2.18
+,CPS,LEIM,28 jan (qua),19:00,,13 fev (sex),10:00,,19 mar (qui),10:00,A.2.16#A.2.18
+,CSI,MEIC,30 jan (sex),19:00,,12 fev (qui),19:00,,12 mar (qui),19:00,A.2.16#A.2.18
+,E1,LEETC,3 fev (ter),19:00,,19 fev (qui),10:00,,18 mar (qua),10:00,A.2.16#A.2.18
+,E2,LEETC,4 fev (qua),10:00,,16 fev (seg),19:00,,20 mar (sex),10:00,A.2.16#A.2.18
+,EA,LEETC,27 jan (ter),19:00,,12 fev (qui),10:00,,13 mar (sex),19:00,A.2.12#A.2.13
+,EGP,LEIC# MEIC# MEET# LEIM# MERCM,26 jan (seg),19:00,,14 fev (sáb),10:00,,16 mar (seg),10:00,A.2.16#A.2.18
+,Eletr,LEIC,2 fev (seg),10:00,,11 fev (qua),19:00,,16 mar (seg),10:00,A.2.16#A.2.18
+,ES,MEIC# MERCM,23 jan (sex),19:00,,9 fev (seg),19:00,,11 mar (qua),19:00,A.2.16#A.2.18
+,FAE,LEETC,28 jan (qua),10:00,,12 fev (qui),19:00,,13 mar (sex),10:00,A.2.16#A.2.18
+,FSO,LEIM,2 fev (seg),10:00,,19 fev (qui),19:00,,17 mar (ter),19:00,A.2.16#A.2.18
+,ICIR,LEETC,2 fev (seg),10:00,,16 fev (seg),19:00,,20 mar (sex),10:00,A.2.16#A.2.18
+,ICM,MERCM,29 jan (qui),19:00,,11 fev (qua),19:00,,9 mar (seg),19:00,A.2.16#A.2.18
+,IRS,MEIC# MEET# MERCM,2 fev (seg),19:00,,18 fev (qua),19:00,,19 mar (qui),19:00,A.2.16#A.2.18
+,LC,LEIC,4 fev (qua),10:00,,19 fev (qui),14:00,,18 mar (qua),10:00,A.2.16#A.2.18
+,LSD,LEIC# LEETC,29 jan (qui),10:00,,13 fev (sex),19:00,,12 mar (qui),10:00,A.2.12#A.2.13
+,M1,LEIC,6 fev (sex),10:00,,18 fev (qua),19:00,,20 mar (sex),10:00,A.2.16#A.2.18
+,M2,LEIC,3 fev (ter),19:00,,18 fev (qua),10:00,,17 mar (ter),19:00,A.2.16#A.2.18
+,MAE,LEIM,4 fev (qua),19:00,,18 fev (qua),10:00,,20 mar (sex),19:00,A.2.16#A.2.18
+,MAET,LEETC,31 jan (sáb),10:00,,9 fev (seg),19:00,,16 mar (seg),19:00,A.2.16#A.2.18
+,MDP,LEIM,6 fev (sex),10:00,,20 fev (sex),19:00,,18 mar (qua),10:00,A.2.16#A.2.18
+,MSSN,LEIM,30 jan (sex),10:00,,11 fev (qua),19:00,,11 mar (qua),10:00,A.2.12#A.2.13
+,PC,LEIC,6 fev (sex),10:00,,20 fev (sex),19:00,,20 mar (sex),19:00,A.2.16#A.2.18
+,PDM,LEIC,21 jan (qua),10:00,,10 fev (ter),10:00,,19 mar (qui),10:00,A.2.16#A.2.18
+,PDS,LEETC,6 fev (sex),19:00,,19 fev (qui),19:00,,17 mar (ter),19:00,A.2.16#A.2.18
+,PE,LEIC# LEETC,7 fev (sáb),10:00,,20 fev (sex),19:00,,19 mar (qui),10:00,A.2.16#A.2.18
+,PF,LEIC,31 jan (sáb),10:00,,17 fev (ter),19:00,,17 mar (ter),19:00,A.2.16#A.2.18
+,PG,LEIC,26 jan (seg),10:00,,9 fev (seg),19:00,,10 mar (ter),19:00,A.2.16#A.2.18
+,PG1,LEETC,23 jan (sex),10:00,,11 fev (qua),19:00,,10 mar (ter),19:00,A.2.16#A.2.18
+,PG2,LEETC,23 jan (sex),19:00,,16 fev (seg),10:00,,12 mar (qui),19:00,A.2.16#A.2.18
+,PG3,LEETC,26 jan (seg),19:00,,21 fev (sáb),10:00,,12 mar (qui),19:00,A.2.16#A.2.18
+,PI,LEIC,29 jan (qui),19:00,,11 fev (qua),10:00,,9 mar (seg),19:00,A.2.16#A.2.18
+,PIV,LEIM,31 jan (sáb),10:00,,18 fev (qua),10:00,,18 mar (qua),19:00,A.2.16#A.2.18
+,POO,LEIC,28 jan (qua),10:00,,12 fev (qui),19:00,,13 mar (sex),10:00,A.2.16#A.2.18
+,PR,LEETC,26 jan (seg),10:00,,12 fev (qui),19:00,,18 mar (qua),19:00,A.2.16#A.2.18
+,PRC,MEET# MERCM,28 jan (qua),19:00,,10 fev (ter),19:00,,10 mar (ter),19:00,A.2.16#A.2.18
+,PSC,LEIC,29 jan (qui),19:00,,12 fev (qui),10:00,,12 mar (qui),19:00,A.2.16#A.2.18
+,RCOM,LEETC# MEET,27 jan (ter),14:00,,11 fev (qua),19:00,,19 mar (qui),10:00,A.2.16#A.2.18
+,RCp,LEIC# LEETC# LEIM,2 fev (seg),19:00,,13 fev (sex),14:00,,19 mar (qui),19:00,A.2.16#A.2.18
+,RDC,MEET# MERCM,3 fev (ter),19:00,,13 fev (sex),19:00,,18 mar (qua),19:00,A.2.16#A.2.18
+,RI,LEIC# MEIC# LEETC# LEIM,3 fev (ter),19:00,,16 fev (seg),10:00,,16 mar (seg),19:00,A.2.16#A.2.18
+,RSCM,LEIM# MEIC# MEET,6 fev (sex),19:00,,19 fev (qui),14:00,,20 mar (sex),10:00,A.2.16#A.2.18
+,SA,LEIM,29 jan (qui),10:00,,12 fev (qui),19:00,,12 mar (qui),10:00,A.2.12#A.2.13
+,SAU,MEET# MERCM,7 fev (sáb),10:00,,20 fev (sex),19:00,,14 mar (sáb),10:00,G.1.15
+,SBD,LEIM,29 jan (qui),19:00,,12 fev (qui),10:00,,12 mar (qui),19:00,A.2.16#A.2.18
+,SCO,MEET,27 jan (ter),19:00,,11 fev (qua),19:00,,19 mar (qui),19:00,A.2.16#A.2.18
+,SD,LEIC# MEIC,21 jan (qua),19:00,,16 fev (seg),19:00,,21 mar (sáb),10:00,G.1.15
+,SE1,LEIC# MEIC# LEETC,2 fev (seg),10:00,,18 fev (qua),19:00,,18 mar (qua),19:00,A.2.16#A.2.18
+,SEAD,LEETC,29 jan (qui),10:00,,16 fev (seg),19:00,,13 mar (sex),10:00,A.2.16#A.2.18
+,SEAS,MEET,26 jan (seg),19:00,,21 fev (sáb),10:00,,12 mar (qui),19:00,A.2.16#A.2.18
+,SET,MEET,29 jan (qui),19:00,,9 fev (seg),19:00,,17 mar (ter),19:00,A.2.16#A.2.18
+,SG,LEIC# MEIC# LEIM,5 fev (qui),19:00,,21 fev (sáb),10:00,,13 mar (sex),10:00,A.2.16#A.2.18
+,SI,LEIC# MEIC,22 jan (qui),10:00,,13 fev (sex),19:00,,10 mar (ter),10:00,A.2.12#A.2.13
+,SI1,LEIC,21 jan (qua),19:00,,18 fev (qua),14:00,,20 mar (sex),19:00,A.2.16#A.2.18
+,SI2,LEIC,27 jan (ter),10:00,,12 fev (qui),19:00,,12 mar (qui),10:00,A.2.12#A.2.13
+,SIGM,MERCM,30 jan (sex),19:00,,12 fev (qui),19:00,,12 mar (qui),19:00,A.2.16#A.2.18
+,SOi,LEIC,24 jan (sáb),10:00,,10 fev (ter),19:00,,10 mar (ter),19:00,A.2.16#A.2.18
+,SOt,LEETC,22 jan (qui),19:00,,10 fev (ter),10:00,,9 mar (seg),19:00,A.2.16#A.2.18
+,SS,LEETC,30 jan (sex),19:00,,9 fev (seg),10:00,,9 mar (seg),19:00,A.2.16#A.2.18
+,ST,LEETC# MEET,30 jan (sex),19:00,,12 fev (qui),14:00,,20 mar (sex),19:00,A.2.16#A.2.18
+,STBL,MEET,21 jan (qua),19:00,,14 fev (sáb),10:00,,16 mar (seg),19:00,A.2.16#A.2.18
+,TEL1,LEETC,29 jan (qui),19:00,,11 fev (qua),10:00,,10 mar (ter),10:00,A.2.12#A.2.13
+,TEL2,LEETC,6 fev (sex),10:00,,20 fev (sex),19:00,,11 mar (qua),10:00,A.2.12#A.2.13
+,TI,LEIM,27 jan (ter),19:00,,9 fev (seg),10:00,,10 mar (ter),19:00,A.2.16#A.2.18
