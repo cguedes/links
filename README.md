@@ -5,6 +5,7 @@ This is a repository with links I've discovered on the Web.
 
 ## JavaScript
 
+  * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) - `Oct 2015`
   * [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html) - `Aug 2015`
   * [(Online) Book: Exploring ES6](https://leanpub.com/exploring-es6/read) - `Jun 2015` - _This book covers ECMAScript 6 in great detail_
   * [window.fetch polyfill](https://github.com/github/fetch) ([Spec](https://fetch.spec.whatwg.org/)) - `May 2015`
