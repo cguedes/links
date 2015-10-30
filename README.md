@@ -14,7 +14,7 @@ This is a repository with links I've discovered on the Web.
 
 ## ReactJS
  
- * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial) - `October 2015` - _A nice tutorial on Redux`
+ * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial) - `October 2015` - _A nice tutorial on Redux_
  * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) - `October 2015`
  * [React Tutorial - Converting Reflux to Redux](http://engineering.wework.com/process/2015/10/01/react-reflux-to-redux/) - `October 2015`
  * [Building Plugins for React Apps](https://nylas.com/blog/react-plugins) - `July 2015` - _Techniques for modular, robust & flexible JavaScript plugins_
