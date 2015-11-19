@@ -5,6 +5,7 @@ This is a repository with links I've discovered on the Web.
 
 ## JavaScript
 
+  * [The long road to Async/Await in JavaScript](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/) - `Nov 2015` - _This is a comparison of different methods for performing asynchronous control flow in JavaScript, specifically Callbacks, Promises, Generators / Yields (ES6), and Async / Await (ES7). To follow along be sure you understand how the JavaScript Event Loop works and what it means when code is executed synchronously in the current stack, or shoved into the queue to be executed asynchronously in the future._
   * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) - `Oct 2015`
   * [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html) - `Aug 2015`
   * [(Online) Book: Exploring ES6](https://leanpub.com/exploring-es6/read) - `Jun 2015` - _This book covers ECMAScript 6 in great detail_
@@ -50,6 +51,11 @@ This is a repository with links I've discovered on the Web.
 
   * [Editor Config](http://editorconfig.org/), ([VS.NET plugin](https://github.com/editorconfig/editorconfig-visualstudio#readme)) - `Apr 2015` - _EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems._
 
+## Tools
+
+ * [ngork](https://ngrok.com/) - `Nov 2015` - _ngork is a tool that allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on._
+ * [GitUp](http://gitup.co/) - `Nov 2015` - _GitUp is an OSX application to help manage git repositories. Work quickly, safely, and without headaches. The Git interface you've been missing all your life has finally arrived._
+
 ## Versioning
 
 * [GitVersion](https://github.com/ParticularLabs/GitVersion) - `Apr 2015` - _Easy Semantic Versioning (http://semver.org) for projects using Git http://particularlabs.github.io/GitVersion/_
@@ -64,12 +70,9 @@ This is a repository with links I've discovered on the Web.
  * [Coding Explained in 25 Profound Comics](https://medium.com/@FreeCodeCamp/coding-explained-in-25-profound-comics-8847ea03819c) - `Jun 2015`
 
 
-## Blog posts
-
-### Workplace
+## Workplace
 
   * [How to create a great environment](https://medium.com/we-are-swat/how-to-create-a-great-environment-13ec8ea1b5c) - `May 2015` - _Work, culture and leadership are topics that I have a lot of interest in. I want to learn how I can work better and be more productive. I want to influence the organization I work in by contributing to a great culture. And I want to know what makes a great leader._ by Paulo Silva
-  * 
-  
+
 
 
