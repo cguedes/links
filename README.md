@@ -13,6 +13,11 @@ This is a repository with links I've discovered on the Web.
   * [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - `May 2015`
   * [SEO: We Tested How Googlebot Crawls Javascript And Here’s What We Learned](http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157) - `May 2015` - _Think Google can't handle JavaScript? Think again. Contributor Adam Audette shares the results of a series of tests conducted by his colleagues at Merkle | RKG to examine how different JavaScript functions would be crawled and indexed by Google._
 
+## React Native
+
+* [React Native](https://facebook.github.io/react-native) - `Nov 2015` - _React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React._
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - `Nov 2015` - _A Complete Guide to Flexbox_
+
 ## ReactJS
  
  * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial) - `October 2015` - _A nice tutorial on Redux_
