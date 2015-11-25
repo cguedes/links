@@ -19,7 +19,7 @@ This is a repository with links I've discovered on the Web.
 * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - `Nov 2015` - _A Complete Guide to Flexbox_
 
 ## ReactJS
- 
+ * [Getting Started course videos with Redux by Dan Abramov](https://egghead.io/series/getting-started-with-redux) - `Nov 2015` - _A well crafted list of videos with redux concepts, by it's author_
  * [Redux Tutorial](https://github.com/happypoulp/redux-tutorial) - `October 2015` - _A nice tutorial on Redux_
  * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) - `October 2015`
  * [React Tutorial - Converting Reflux to Redux](http://engineering.wework.com/process/2015/10/01/react-reflux-to-redux/) - `October 2015`
