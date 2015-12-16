@@ -5,6 +5,7 @@ This is a repository with links I've discovered on the Web.
 
 ## JavaScript
 
+  * [Rewire](https://github.com/jhnns/rewire) - `Dec 2015` - _Easy dependency injection for node.js unit testing._
   * [The long road to Async/Await in JavaScript](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/) - `Nov 2015` - _This is a comparison of different methods for performing asynchronous control flow in JavaScript, specifically Callbacks, Promises, Generators / Yields (ES6), and Async / Await (ES7). To follow along be sure you understand how the JavaScript Event Loop works and what it means when code is executed synchronously in the current stack, or shoved into the queue to be executed asynchronously in the future._
   * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) - `Oct 2015`
   * [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html) - `Aug 2015`
