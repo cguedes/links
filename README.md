@@ -8,7 +8,7 @@ This is a repository with links I've discovered on the Web.
   * [component-check](https://github.com/Mercateo/component-check) - `Jan 2016` - _A quick introduction to exploring how components can be created in several frameworks._
   * [React Redux Starter Kit](https://github.com/davezuko/react-redux-starter-kit) - `Jan 2016` - _Get started with React, Redux, and React-Router!_
   * [Timeline Visualization in JavaScript](http://visjs.org/docs/timeline/) - `Jan 2016` - _The Timeline is an interactive visualization chart to visualize data in time. The data items can take place on a single date, or have a start and end date (a range). You can freely move and zoom in the timeline by dragging and scrolling in the Timeline. Items can be created, edited, and deleted in the timeline. The time scale on the axis is adjusted automatically, and supports scales ranging from milliseconds to years._
-  * [Rewire](https://github.com/jhnns/rewire) - `Dec 2015` - _Easy dependency injection for node.js unit testing._
+  * [Rewire](https://github.com/jhnns/rewire) - `Dec 2015` - _Easy dependency injecttion for node.js unit testing._
   * [The long road to Async/Await in JavaScript](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/) - `Nov 2015` - _This is a comparison of different methods for performing asynchronous control flow in JavaScript, specifically Callbacks, Promises, Generators / Yields (ES6), and Async / Await (ES7). To follow along be sure you understand how the JavaScript Event Loop works and what it means when code is executed synchronously in the current stack, or shoved into the queue to be executed asynchronously in the future._
   * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) - `Oct 2015`
   * [Getting started with ECMAScript 6](http://www.2ality.com/2015/08/getting-started-es6.html) - `Aug 2015`
@@ -62,6 +62,7 @@ This is a repository with links I've discovered on the Web.
 
 ## Tools
 
+ * [localtunel](https://localtunnel.me/) - `Jan 2016` - _Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings._
  * [ngork](https://ngrok.com/) - `Nov 2015` - _ngork is a tool that allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on._
  * [GitUp](http://gitup.co/) - `Nov 2015` - _GitUp is an OSX application to help manage git repositories. Work quickly, safely, and without headaches. The Git interface you've been missing all your life has finally arrived._
 
