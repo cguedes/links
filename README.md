@@ -83,5 +83,7 @@ This is a repository with links I've discovered on the Web.
 
   * [How to create a great environment](https://medium.com/we-are-swat/how-to-create-a-great-environment-13ec8ea1b5c) - `May 2015` - _Work, culture and leadership are topics that I have a lot of interest in. I want to learn how I can work better and be more productive. I want to influence the organization I work in by contributing to a great culture. And I want to know what makes a great leader._ by Paulo Silva
 
+## Books
 
+  * [CQRS](https://leanpub.com/cqrs) - CQRS - The example @ Leanpub
 
