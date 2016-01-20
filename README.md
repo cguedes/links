@@ -62,7 +62,7 @@ This is a repository with links I've discovered on the Web.
 
 ## Tools
 
- * [localtunel](https://localtunnel.me/) - `Jan 2016` - _Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings._
+ * [localtunnel](https://localtunnel.me/) - `Jan 2016` - _Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings._
  * [ngork](https://ngrok.com/) - `Nov 2015` - _ngork is a tool that allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on._
  * [GitUp](http://gitup.co/) - `Nov 2015` - _GitUp is an OSX application to help manage git repositories. Work quickly, safely, and without headaches. The Git interface you've been missing all your life has finally arrived._
 
